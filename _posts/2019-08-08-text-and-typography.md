@@ -1,12 +1,11 @@
 ---
-title: Getting Started
+title: Seismic Data Reconstruction Based On Conditional Constraint Diffusion Model
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [Seismic Data Reconstruction Based On Conditional Constraint Diffusion Model]
+  Reconstruction of 2D seismic data using constrained diffusion model.
+author: Shuang Wang
+date: 2024-03-0905 20:00:00 +0800
+# categories: [Blogging, Tutorial]
+tags: [Diffusion Model]
 pin: true
 # img_path: '/posts/20180809'
 ---
