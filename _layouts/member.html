@@ -11,26 +11,36 @@ refactor: true
     <div class="col-lg-3 col-md-4 col-sm-6">
       <div class="team-member">
         <img src="../assets/img/member/ws.jpg" alt="王爽">
-        <h4>松阪砂糖</h4>
+        <h4>大牛之哥</h4>
         <h5>aka-王爽</h5>
         <p>2022级硕士生</p>
-        <p class="description">喜喜好坏嘻嘻哈哈嘻嘻哈哈嘻嘻哈哈</p>
+        <p class="description">哈哈哈哈</p>
         <p><a href="mailto:wangs@stu.cdut.edu.cn"><i class="fas fa-envelope"></i></a> <a href="https://github.com/WAL-l"><i class="fab fa-github"></i></a></p>
       </div>
     </div>
-    <!-- 继续添加更多团队成员 -->
     <div class="col-lg-3 col-md-4 col-sm-6">
       <div class="team-member">
-        <img src="../assets/img/member/jpf.jpg" alt="蒋沛凡">
+        <img src="../assets/img/member/jpff.jpg" alt="蒋沛凡">
         <h4>电子肥猪</h4>
         <h5>aka-蒋沛凡</h5>
         <p>2023级博士生</p>
         <p class="description">接瓦罗兰特陪玩</p>
-        <p><a href="mailto:wangs@stu.cdut.edu.cn"><i class="fas fa-envelope"></i></a> <a href="https://github.com/WAL-l"><i class="fab fa-github"></i></a></p>
+        <p><a href="mailto:jpeifan@qq.com"><i class="fas fa-envelope"></i></a> <a href="https://github.com/jiangpeifan"><i class="fab fa-github"></i></a></p>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-md-4 col-sm-6">
+      <div class="team-member">
+        <img src="../assets/img/member/lw.jpg" alt="罗文">
+        <h4>说唱皇帝</h4>
+        <h5>aka-罗文</h5>
+        <p>2021级硕士生</p>
+        <p class="description">发一把赢了</p>
+        <p><a href="mailto:luowen0724@qq.com"><i class="fas fa-envelope"></i></a> <a href="https://github.com/Rowan-L"><i class="fab fa-github"></i></a></p>
       </div>
     </div>
   </div>
-</div>
+</div> 
 
 <style>
   .team-member {
@@ -41,9 +51,10 @@ refactor: true
     box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
     padding: 30px;
     background-color: #fff;
+    width: 180px;
   }
   .team-member img {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     max-width: 100px;
     border: 4px solid #fff;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
@@ -86,6 +97,7 @@ refactor: true
     color: #888;
   }
 </style>
+
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
