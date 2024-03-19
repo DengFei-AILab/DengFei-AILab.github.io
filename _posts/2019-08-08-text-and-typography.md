@@ -3,7 +3,7 @@ title: Seismic Data Reconstruction Based On Conditional Constraint Diffusion Mod
 description: >-
   Reconstruction of 2D seismic data using constrained diffusion model.
 author: Shuang Wang
-date: 2024-03-0905 20:00:00 +0800
+date: 2024-03-05 20:00:00 +0800
 # categories: [Blogging, Tutorial]
 tags: [Diffusion Model]
 pin: true
