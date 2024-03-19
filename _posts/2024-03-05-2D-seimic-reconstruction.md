@@ -37,5 +37,6 @@ Reconstruction of complete seismic data is a crucial step in seismic data proces
   number={},
   pages={1-5},
   keywords={Mathematical models;Data models;Interpolation;Encoding;Vectors;Training;Predictive models;Diffusion model;neural network;seismic data reconstruction},
-  doi={10.1109/LGRS.2024.3371675}}
+  doi={10.1109/LGRS.2024.3371675}
+  }
 ```
