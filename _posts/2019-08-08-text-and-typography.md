@@ -4,7 +4,7 @@ description: >-
   Reconstruction of 2D seismic data using constrained diffusion model.
 author: Shuang Wang
 date: 2024-03-05 20:00:00 +0800
-# categories: [Blogging, Tutorial]
+categories: [生成模型, 地震数据重建]
 tags: [Diffusion Model]
 pin: true
 # img_path: '/posts/20180809'
