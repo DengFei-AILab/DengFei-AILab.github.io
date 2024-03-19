@@ -4,7 +4,7 @@ refactor: true
 ---
 
 {% include lang.html %}
-
+<div>这里将会有一大段简介</div>
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
