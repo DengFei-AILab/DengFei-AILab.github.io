@@ -16,10 +16,10 @@ timezone:
 
 title: DengFei-AILab # the main title
 
-tagline: 邓飞老师的AI实验室（dengfei@cudt.edu.cn） # it will display as the sub-title
+tagline: 邓飞老师的AI实验室（dengfei@cdut.edu.cn） # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  邓飞老师的实验室主页，包括主要成果，人员介绍，吃喝玩乐（coming soon...）。欢迎报考，邮箱：dengfei@cudt.edu.cn.
+  邓飞老师的实验室主页，包括主要成果，人员介绍，吃喝玩乐（coming soon...）。欢迎报考，邮箱：dengfei@cdut.edu.cn.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

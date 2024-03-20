@@ -4,7 +4,7 @@ refactor: true
 ---
 
 {% include lang.html %}
-<div>这里将会有一大段简介</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你说得对，但是DengFei-AILab是由邓飞老师自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作成都理工的幻想世界，在这里被邓飞老师选中的考生将被授予科研课题 ，引导计算机之力。你将扮演一位名为研究生的神秘角色，在自由的学习中邂逅性格各异、能力独特的神经网络们，和它们一起击败审稿人，找回论文的同时，逐步发掘计算机的真相 。</div>
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
