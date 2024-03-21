@@ -5,7 +5,7 @@ description: >-
 author: lw
 date: 2023-05-29 20:00:00 +0800
 categories: [语义分割, 遥感图像分割]
-tags: [ViT]
+tags: [ViT,Transformer]
 pin: false
 # img_path: '/posts/20180809'
 ---

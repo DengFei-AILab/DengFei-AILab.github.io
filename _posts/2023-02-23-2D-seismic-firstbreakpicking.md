@@ -5,7 +5,7 @@ description: >-
 author: jpf
 date: 2023-02-23 20:00:00 +0800
 categories: [语义分割, 地震初至拾取]
-tags: [Swin Transformer]
+tags: [Swin Transformer,Transformer]
 pin: false
 # img_path: '/posts/20180809'
 ---
