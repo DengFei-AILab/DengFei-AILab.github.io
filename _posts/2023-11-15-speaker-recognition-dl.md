@@ -1,7 +1,7 @@
 ---
 title: Multi-level attention network：Mixed time–frequency channel attention and multi-scale self-attentive standard deviation pooling for speaker recognition
 description: >-
-Speaker Recognition.
+ Speaker Recognition.
 author: dlh
 date: 2023-11-15 20:00:00 +0800
 categories: [语音识别, 说话人声纹识别]

@@ -1,7 +1,7 @@
 ---
 title: ResSKNet SSDP 
 description: >-
-Effective and Light End-To-End Architecture for Speaker Recognition.
+ Effective and Light End-To-End Architecture for Speaker Recognition.
 author: dlh
 date: 2023-01-20 20:00:00 +0800
 categories: [语音识别, 说话人声纹识别]
