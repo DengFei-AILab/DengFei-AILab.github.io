@@ -1,5 +1,5 @@
 ---
-title: ResSKNet-SSDP 
+title: ResSKNet SSDP 
 description: >-
 Effective and Light End-To-End Architecture for Speaker Recognition.
 author: dlh
